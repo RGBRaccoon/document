@@ -18,5 +18,10 @@ discriminant_analysis = "판별분석은 두 개 이상의 범주로 분류되�
 # 즉, 두 그룹을 가장 효율적으로 구분하는 선을 찾는 것입니다
 
 
+bayes_theorem = "베이즈 정리(Bayes' theorem). 어떤 사건이 서로 배반하는 원인 둘에 의해 일어난다고 할 때 \
+    실제 사건이 일어났을 때 이것이 두 원인 중 하나일 확률을 구하는 정리를 베이즈의 정리라고 한다.\
+    https://www.youtube.com/watch?v=HZGCoVF3YvM&embeds_referring_euri=https%3A%2F%2Fnamu.wiki%2F&source_ve_path=MjM4NTE"
+
+
 class DiscriminantAnalysis:
     pass
